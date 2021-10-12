@@ -13,7 +13,7 @@ The exercise requires [Node.js](https://nodejs.org/en/) and [Git](https://git-sc
 1. Start by downloading this project.
 
 1. Initialize the git repository, run `git init` to do so.
-
+ 
 1. In the root directory, run `npm install` to gather all dependencies.
 
 1. Next, `npm run seed` will seed the local SQLite database. **Warning: This will drop the database if it exists**. The database lives in a local file `database.sqlite3`.
